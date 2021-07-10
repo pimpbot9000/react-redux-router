@@ -11,7 +11,6 @@ const reducer = combineReducers({
 // thunk allows asynchronous action creators
 const store = createStore(reducer, applyMiddleware(thunk))
 
-
 store.subscribe(() => {
   console.log(store.getState())
 })
