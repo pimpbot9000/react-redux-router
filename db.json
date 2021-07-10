@@ -1,0 +1,114 @@
+{
+  "notes": [
+    {
+      "content": "the app state is in redux store",
+      "important": false,
+      "id": 1
+    },
+    {
+      "content": "state changes are made with actions",
+      "important": true,
+      "id": 2
+    },
+    {
+      "content": "New note",
+      "important": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "content": "very important note",
+      "important": true
+    },
+    {
+      "content": "Hello world!",
+      "important": true,
+      "id": 5
+    },
+    {
+      "content": "New note 5000",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "NotesConnect",
+      "important": true,
+      "id": 7
+    },
+    {
+      "content": "New note",
+      "important": false,
+      "id": 8
+    },
+    {
+      "content": "Thunkj",
+      "important": true,
+      "id": 9
+    },
+    {
+      "content": "Hello",
+      "important": false,
+      "id": 10
+    },
+    {
+      "content": "Uusi yritys",
+      "important": false,
+      "id": 11
+    },
+    {
+      "content": "Uusi yritys",
+      "important": false,
+      "id": 12
+    },
+    {
+      "content": "sdsd",
+      "important": false,
+      "id": 13
+    },
+    {
+      "content": "sdsd",
+      "important": true,
+      "id": 14
+    },
+    {
+      "content": "asas",
+      "important": false,
+      "id": 15
+    },
+    {
+      "content": "sdsd",
+      "important": false,
+      "id": 16
+    },
+    {
+      "content": "sdsdsdds",
+      "important": false,
+      "id": 17
+    },
+    {
+      "content": "hello",
+      "important": false,
+      "id": 18
+    },
+    {
+      "content": "asds",
+      "important": true,
+      "id": 19
+    },
+    {
+      "content": "hello",
+      "important": false,
+      "id": 20
+    },
+    {
+      "content": "Hello world!",
+      "important": true,
+      "id": 21
+    },
+    {
+      "content": "add new note",
+      "important": false,
+      "id": 22
+    }
+  ]
+}
